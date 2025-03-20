@@ -522,9 +522,6 @@ v,k=argmax(l)
 print("Max vente :", v, "------->", mois[k])
 
 2. [Intersection de listes](ex4.2)
-## Liste des exercices de ce chapitre
-
-1. [Argmax](ex4.1)
 ```
 l1=[2,5,8,12,14,3]
 l2=[3,1,-1]
@@ -537,8 +534,5 @@ def intersection(l1,l2):
         l3.append(e)
   return l3
 print(intersection(l1,l2))
-
-
-
-
+```
 3. [Union de listes](ex4.3)
